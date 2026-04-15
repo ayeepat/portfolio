@@ -31,7 +31,7 @@ const events = [
     year: '2020–2023',
     titleRu: 'Московские школы',
     titleEn: 'Moscow Schools',
-    descRu: 'Обучение в школах № 1341, № 1770 и № 1353.',
+    descRu: 'Обучение в школах № 1341, № 1770 и № 1253.',
     descEn: 'Education at schools № 1341, № 1770 and № 1253.',
     location: 'Moscow',
   },
