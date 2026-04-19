@@ -6,13 +6,14 @@ export default function AboutSection({ portraitImg }) {
 
   const bioRu = `Александр Куперсмит родился 10 октября 2009 года в Вашингтоне, США. С ранних лет он совмещал академическую подготовку и серьёзные занятия спортом. Обучался в Российской посольской школе в Вашингтоне, затем в World International School of Sports, где выступал за хоккейную команду в позиции нападающего.
 
-В 2020 году семья переехала в Россию. Александр продолжил образование в московских школах № 1341, № 1770 и № 1353. Во время пандемии шесть месяцев прожил в Сочи.
+В 2020 году семья переехала в Россию. Александр продолжил образование в московских школах № 1341, № 1770 и № 12
+53. Во время пандемии шесть месяцев прожил в Сочи.
 
 В 2023–2024 годах перешёл в ПФК «Лужники», а затем в Академию «Торпедо» (Москва). Александр — выпускник музыкальной школы с красным дипломом, победитель множества международных конкурсов. Он четырёхкратный обладатель звания лучшего вратаря (включая «Торпедо»).`;
 
   const bioEn = `Alexander Kupersmith was born on October 10, 2009, in Washington, D.C., USA. From an early age he combined academic studies with serious sports training. He attended the Russian Embassy School in Washington and later the World International School of Sports, where he played ice hockey as a forward.
 
-In 2020 the family relocated to Russia. Alexander continued his education at Moscow schools № 1341, № 1770 and № 1353. During the pandemic he spent six months in Sochi.
+In 2020 the family relocated to Russia. Alexander continued his education at Moscow schools № 1341, № 1770 and № 1253. During the pandemic he spent six months in Sochi.
 
 In 2023–2024 he joined PFC Luzhniki and then moved to the Torpedo Moscow Academy. Alexander is a graduate of music school with honors (red diploma) and winner of numerous international competitions. He is a four-time Best Goalkeeper award recipient (including at Torpedo).`;
 
