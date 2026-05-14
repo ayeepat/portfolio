@@ -58,8 +58,8 @@ export default function MusicSection({ musicImg }) {
             transition={{ duration: 0.8, delay: 0.2 }}
             className="relative"
           >
-            <div className="aspect-video rounded-2xl overflow-hidden border border-white/5">
-              <img src={musicImg} alt="Music" className="w-full h-full object-contain" />
+            <div className="rounded-2xl overflow-hidden border border-white/5" style={{ aspectRatio: '433 / 699' }}>
+              <img src={musicImg} alt="Music" className="w-full h-full object-cover" />
             </div>
             <div className="absolute -inset-1 bg-[#C9A87C]/5 rounded-2xl blur-xl -z-10" />
           </motion.div>
