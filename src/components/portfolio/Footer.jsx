@@ -7,7 +7,7 @@ export default function Footer() {
     <footer className="bg-[#08090A] border-t border-white/5 py-8">
       <div className="max-w-7xl mx-auto px-6 flex flex-col md:flex-row items-center justify-between gap-4">
         <div className="text-[#8E9AAF]/50 text-sm">
-          © {new Date().getFullYear()} Alexander Kupersmith. {t('Все права защищены', 'All rights reserved')}.
+          © {new Date().getFullYear()} Alexander Coopersmith. {t('Все права защищены', 'All rights reserved')}.
         </div>
 
         <div className="flex items-center gap-6">
