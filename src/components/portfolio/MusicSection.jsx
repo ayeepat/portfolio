@@ -59,7 +59,7 @@ export default function MusicSection({ musicImg }) {
             className="relative"
           >
             <div className="aspect-video rounded-2xl overflow-hidden border border-white/5">
-              <img src={musicImg} alt="Music" className="w-full h-full object-cover" />
+              <img src={musicImg} alt="Music" className="w-full h-full object-cover object-top" />
             </div>
             <div className="absolute -inset-1 bg-[#C9A87C]/5 rounded-2xl blur-xl -z-10" />
           </motion.div>
